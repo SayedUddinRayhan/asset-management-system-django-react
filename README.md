@@ -4,7 +4,7 @@
 [![Django](https://img.shields.io/badge/Django-4.x-green?logo=django&logoColor=white)](https://www.djangoproject.com/)
 [![React](https://img.shields.io/badge/React-18.x-61DAFB?logo=react&logoColor=black)](https://reactjs.org/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15+-336791?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![DRF](https://img.shields.io/badge/Django_REST_Framework-)](https://www.django-rest-framework.org/)
+[![DRF](https://img.shields.io/badge/Django_REST_Framework-3.x-red)](https://www.django-rest-framework.org/)
 [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?logo=firefox)](http://182.48.94.12:3000/login)
 
 > ⚠️ **This is a public showcase repository.** The source code is private as this is a production system deployed at [Feni Diabetes Hospital](https://fenidiabetic.org/). This README documents the project for portfolio purposes.
