@@ -1,4 +1,4 @@
-# IT Asset Management System
+# Asset Management System
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python&logoColor=white)](https://www.python.org/)
 [![Django](https://img.shields.io/badge/Django-4.x-green?logo=django&logoColor=white)](https://www.djangoproject.com/)
@@ -13,7 +13,7 @@
 
 ## 📌 Overview
 
-**IT Asset Management System** is a production-grade, full-stack web application built for **Feni Diabetes Hospital, Feni, Bangladesh** to manage its entire IT asset lifecycle — from acquisition and tracking to repair, transfer, and retirement.
+**Asset Management System** is a production-grade, full-stack web application built for **Feni Diabetes Hospital, Feni, Bangladesh** to manage its entire IT asset lifecycle — from acquisition and tracking to repair, transfer, and retirement.
 
 It features a **Text-to-SQL AI Agent** powered by Groq LLM, enabling non-technical hospital staff to query the asset database using plain natural language — no SQL knowledge required.
 
