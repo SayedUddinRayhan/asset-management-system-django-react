@@ -70,7 +70,7 @@ It features a **Text-to-SQL AI Agent** powered by Groq LLM, enabling non-technic
 
 ### 🔧 Repair Lifecycle Management
 - Log repair requests with issue descriptions and priority levels.
-- Track repair status: **Pending → In Progress → Resolved**.
+- Track repair status: **Pending Send → Sent to Vendor → Completed**.
 - Full repair history per asset for audit and reporting.
 
 ### 🏢 Vendor Management
@@ -105,8 +105,8 @@ It features a **Text-to-SQL AI Agent** powered by Groq LLM, enabling non-technic
 - Powered by **Groq LLM API** with ~2s average response time.
 - Example queries:
   - *"How many assets are currently under repair in the IT department?"*
-  - *"List all assets purchased before 2022 with expired warranties."*
-  - *"Show vendor-wise asset count."*
+  - *"Which vendor’s products go under repair most often?"*
+  - *"Which vendor supplied the most products?"*
 
 ### 🔑 OTP-Based Authentication
 - Secure user registration and password reset via **OTP** sent through **Brevo** email integration.
